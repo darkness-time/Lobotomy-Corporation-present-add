@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lobotomy Corporation present add", "ConsoleApplication1.vcxproj", "{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Lobotomy Corporation present add", "x64\Debug\Lobotomy Corporation present add.exe", "{C6DE0C76-06CB-4537-8E54-8FA20C038B84}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Administrator\source\repos\ConsoleApplication1\x64\Debug\Lobotomy Corporation present add.exe
+		RemoteMachine = 
+		StartingDirectory = C:\Users\Administrator\source\repos\ConsoleApplication1\x64\Debug
+		Environment = 默认值
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = Yes
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Debug|x64.ActiveCfg = Debug|x64
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Debug|x64.Build.0 = Debug|x64
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Debug|x86.Build.0 = Debug|Win32
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Release|x64.ActiveCfg = Release|x64
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Release|x64.Build.0 = Release|x64
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Release|x86.ActiveCfg = Release|Win32
+		{1C85176F-54B1-4AEF-93EA-0A0F14B6FAB1}.Release|x86.Build.0 = Release|Win32
+		{C6DE0C76-06CB-4537-8E54-8FA20C038B84}.Debug|x64.ActiveCfg = Release|x64
+		{C6DE0C76-06CB-4537-8E54-8FA20C038B84}.Debug|x86.ActiveCfg = Release|x64
+		{C6DE0C76-06CB-4537-8E54-8FA20C038B84}.Release|x64.ActiveCfg = Release|x64
+		{C6DE0C76-06CB-4537-8E54-8FA20C038B84}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1D4D72-1459-45D7-9445-7F35E3F2BEE2}
+	EndGlobalSection
+EndGlobal

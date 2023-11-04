@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  Lobotomy Corporation present add.cpp
-  LINK : 没有找到 C:\Users\Administrator\source\repos\ConsoleApplication1\x64\Debug\Lobotomy Corporation present add.exe 或上一个增量链接没有生成它；正在执行完全链接
-  ConsoleApplication1.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication1\x64\Debug\Lobotomy Corporation present add.exe
